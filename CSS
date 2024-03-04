@@ -135,7 +135,6 @@ footer a {
     text-decoration: none;
 }
 
-/* Add responsive styles if necessary */
 @media (max-width: 768px) {
     nav ul {
         flex-direction: column;
@@ -150,4 +149,3 @@ footer a {
     }
 }
 
-/* Feel free to add more styles based on your content */
